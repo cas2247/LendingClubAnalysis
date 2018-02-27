@@ -5,7 +5,7 @@ Please see IPython Notebook for further details including visualizations and cod
 
 Part I:
 
-Looking at the data descriptively, B and C grade loans seem to be the most prominent with less emphasis being placed on higher risk, subprime lending. Historgrams of the loan grades and trended views on the number of loans by grade demonstrate this.
+Looking at the data descriptively, B and C grade loans seem to be the most prominent with less emphasis being placed on higher risk, subprime lending. Histograms of the loan grades and trended views on the number of loans by grade demonstrate this.
 
 As a result, the average interest rate across all loans is 13.3 %  with a standard deivation of 4.4.
 
@@ -13,7 +13,7 @@ Part II:
 
 We assume that rate of return can be calculated as (total payments - principal)/principal where the total payments includes all payments made by the lender including interest payments and fees.  For simplicity, we do not consider the time value of money in our calculation.
 
-The average rate of return across all mature short-term loans is 8.2%.  Looking at returns trended over time, LC returns improved dramatically in 2009 and peaked in 2015.
+The average rate of return across all mature short-term loans is 8.2%.  Looking at returns trended over time, LC returns improved dramatically in 2009 and peaked in 2012.
 
 When segmented by year and loan grade, we see that G grade loans in 2012 were the most profitable with returns of 18.8%.
 
