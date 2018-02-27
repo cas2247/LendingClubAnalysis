@@ -19,7 +19,7 @@ When segmented by year and loan grade, we see that G grade loans in 2012 were th
 
 Part III:
 
-Here we build several models that predict the returns of LC 36 month loans.  We built several models and test model accuracy by comparing each model against one another.  We also measure Root Mean Squared Error (RMSE), a statistical measure of accuracy, for each model.
+Here we build several models that predict the returns of LC 36 month loans.  We test model accuracy by comparing each model against one another and by measuring Root Mean Squared Error (RMSE), a statistical measure of accuracy, for each model.
 
 Ultimately, the simple decision tree model with 5 levels proved to be the most accurate with an RMSE of 0.237.
 
