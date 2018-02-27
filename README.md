@@ -1,5 +1,3 @@
-# LendingClubAnalysis
-
 Lending Club Case Study Write-Up
 
 Please see IPython Notebook for further details including visualizations and code.
@@ -9,7 +7,7 @@ Part I:
 
 B and C grade loans seem to be the most prominent loans in the dataset with less emphasis placed on higher risk subprime lending. Historgrams of the loan grades and trended views on the number of loans by grade demonstrate this.
 
-As a result, the avergae interst rate across all loans is 13.3 %  with a standard error of measurement of 0.005.
+As a result, the avergae interest rate across all loans is 13.3 %  with a standard deivation of 4.4.
 
 Part II:
 
