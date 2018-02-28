@@ -11,7 +11,7 @@ As a result, the average interest rate across all loans is 13.3 %  with a standa
 
 Part II:
 
-We assume that rate of return can be calculated as (total payments - principal)/principal where the total payments includes all payments made by the lender including interest payments and fees.  For simplicity, we do not consider the time value of money in our calculation.
+We assume that rate of return can be calculated as (total payments - principal)/principal where the total payments includes all payments made by the borrower including interest payments and fees.  For simplicity, we do not consider the time value of money in our calculation.
 
 The average rate of return across all mature short-term loans is 8.2%.  Looking at returns trended over time, LC returns improved dramatically in 2009 and peaked in 2012.
 
